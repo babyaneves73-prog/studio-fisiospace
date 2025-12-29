@@ -1,0 +1,8 @@
+{
+  "name": "Studio Fisiospace",
+  "short_name": "Fisiospace",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000"
+}
